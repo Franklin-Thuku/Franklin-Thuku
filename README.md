@@ -30,6 +30,38 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 </p>
 ---
+<h2 align="center">『 PHILOSOPHICAL FRAGMENTS 』</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00F79C&width=760&lines=Every+bug+is+a+story+the+compiler+tells+about+our+assumptions.;To+refactor+is+to+forgive+your+past+self+while+guiding+your+future+one.;Good+code+is+written+for+machines%3B+great+code+is+written+for+humans+who+read+it+at+2+AM.;We+push+commits+to+repositories%2C+but+what+we%E2%80%99re+really+pushing+is+belief+in+progress.;Version+control+is+proof+that+evolution+can+be+manual.;The+terminal+is+a+mirror%E2%80%94every+command+reveals+who+we+are+under+pressure.;In+a+world+obsessed+with+deployment+speed%2C+patience+becomes+the+rarest+technology."
+    alt="Philosophical Fragments typing animation"
+  />
+</p>
+
+> *"Every bug is a story the compiler tells about our assumptions."*  
+> *"To refactor is to forgive your past self while guiding your future one."*  
+> *"Good code is written for machines; great code is written for humans who read it at 2 AM."*  
+> *"We push commits to repositories, but what we’re really pushing is belief in progress."*  
+> *"Version control is proof that evolution can be manual."*  
+> *"The terminal is a mirror—every command reveals who we are under pressure."*  
+> *"In a world obsessed with deployment speed, patience becomes the rarest technology."*
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/franklin-thuku-443ab7361">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:brookthuku@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Franklin-Thuku&label=Digital%20Handshakes&color=6366F1&style=flat-square" alt="Profile views">
+</div>
+
 
 ### 🌍 Connect with Me
 
