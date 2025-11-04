@@ -1,7 +1,7 @@
 <h2 align="center">✨ FRANKLIN THUKU: DIGITAL ARCHITECT ✨</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F79C&width=500&lines=Building+digital+cathedrals...;Crafting+beautiful+code;Turning+ideas+into+reality" alt="Typing Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
 </p>
 
 ---
@@ -24,16 +24,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franklinthuku&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franklinthuku&theme=tokyonight" height="160" />
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="70">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 </p>
-
 ---
 
 ### 🌍 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/franklin-thuku-443ab7361">LinkedIn</a> •
-  <a href="https://twitter.com/your-handle">Twitter</a> •
   <a href="mailto:brookthuku@gmail.com.com">Email</a>
 </p>
