@@ -49,13 +49,7 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/franklin-thuku-443ab7361">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:brookthuku@gmail.com">
-  </a>
-</p>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Franklin-Thuku&label=Digital%20Handshakes&color=6366F1&style=flat-square" alt="Profile views">
