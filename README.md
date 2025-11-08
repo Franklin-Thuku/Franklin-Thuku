@@ -1,4 +1,4 @@
-<h2 align="center">✨ FRANKLIN THUKU: DIGITAL ARCHITECT ✨</h2>
+<h2 align="center">✨ FRANKLIN THUKU: SOFTWARE ENGINEER ✨</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
